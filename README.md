@@ -35,7 +35,7 @@ RF receiver module</li>
 <hr>
 
 <h2>🛠 Block Diagram</h2>
-<b></b>Transmitter Section: RF Remote → Encoder → ASK Transmitter</b>
+<b>Transmitter Section: RF Remote → Encoder → ASK Transmitter</b>
 <br>
 
 <b>Receiver Section: ASK Receiver → Decoder → Microcontroller → Motors / Pump / Battery</b>
