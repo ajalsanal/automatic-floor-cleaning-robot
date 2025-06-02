@@ -31,14 +31,18 @@ RF receiver module</li>
 <li>Integrated water/soap tank</li>
 
 <li>Lead-acid rechargeable battery</li>
+</ul>
 <hr>
 
-🛠 Block Diagram
-Transmitter Section: RF Remote → Encoder → ASK Transmitter
+<h2>🛠 Block Diagram</h2>
+<b></b>Transmitter Section: RF Remote → Encoder → ASK Transmitter</b>
+<br>
 
-Receiver Section: ASK Receiver → Decoder → Microcontroller → Motors / Pump / Battery
+<b>Receiver Section: ASK Receiver → Decoder → Microcontroller → Motors / Pump / Battery</b>
+<br>
 
-(Diagrams not included here—refer to the project document for visuals.)
+<b>(Diagrams not included here—refer to the project document for visuals.)</b>
+<br>
 
 🔋 Power System
 Battery Type: Lead-acid
