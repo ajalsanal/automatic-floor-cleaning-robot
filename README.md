@@ -29,7 +29,8 @@ RF receiver module</li>
 
 <li>Integrated water/soap tank</li>
 
-Lead-acid rechargeable battery
+<li>Lead-acid rechargeable battery</li>
+<hr>
 
 🛠 Block Diagram
 Transmitter Section: RF Remote → Encoder → ASK Transmitter
