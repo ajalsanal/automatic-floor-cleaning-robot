@@ -12,22 +12,22 @@
 </ul>
 <h2>🔧 System Components</h2>
 <ul>
-<li>🟧 Transmitter Section
+<li>Transmitter Section
 ASK-based RF remote transmitter</li>
 
 <li>Button-based manual controls</li>
 <li>Long-range communication capability</li>
 
-🟦 Receiver Section (Robot Side)
-RF receiver module
+<li>Receiver Section (Robot Side)
+RF receiver module</li>
 
-Motor drivers for movement and cleaning brush
+<li>Motor drivers for movement and cleaning brush</li>
 
-Pump controller for soap dispenser
+<li>Pump controller for soap dispenser</li>
 
-Embedded system (likely microcontroller-based)
+<li>Embedded system (likely microcontroller-based)</li>
 
-Integrated water/soap tank
+<li>Integrated water/soap tank</li>
 
 Lead-acid rechargeable battery
 
