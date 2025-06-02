@@ -10,6 +10,7 @@
 <li>Battery Powered: Equipped with a lead-acid battery providing ~3 hours of operation on a single charge.</li>
 <li>Compact Design: Built for indoor usage with integrated tank and electronics.</li>
 </ul>
+<hr>
 <h2>🔧 System Components</h2>
 <ul>
 <li>Transmitter Section
