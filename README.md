@@ -3,17 +3,14 @@
 <p>The Wireless Room Cleaning Robot is a prototype autonomous cleaning system designed to perform floor cleaning tasks with remote wireless control. This robot features a rotating brush mechanism, a soap dispenser, and an onboard fluid tank. It is ideal for small-scale indoor cleaning applications and demonstrates core concepts in robotics, wireless communication, and embedded systems</p>
 
 <h3>🤖 Key Features</h3>
-Wireless Control: Operates using an ASK remote control with a wide range.
-
-Cleaning System: Includes a rotating brush mechanism for scrubbing surfaces.
-
-Soap Dispensing: Features a pump system to spray soap solution.
-
-Battery Powered: Equipped with a lead-acid battery providing ~3 hours of operation on a single charge.
-
-Compact Design: Built for indoor usage with integrated tank and electronics.
-
-🔧 System Components
+<ul>
+<li>Wireless Control: Operates using an ASK remote control with a wide range.</li>
+<li>Cleaning System: Includes a rotating brush mechanism for scrubbing surfaces.</li>
+<li>Soap Dispensing: Features a pump system to spray soap solution.</li>
+<li>Battery Powered: Equipped with a lead-acid battery providing ~3 hours of operation on a single charge.</li>
+<li>Compact Design: Built for indoor usage with integrated tank and electronics.</li>
+</ul>
+<h3>🔧 System Components</h3>
 🟧 Transmitter Section
 ASK-based RF remote transmitter
 
