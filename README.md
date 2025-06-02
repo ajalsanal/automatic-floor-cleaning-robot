@@ -35,6 +35,7 @@ RF receiver module</li>
 <hr>
 
 <h2>🛠 Block Diagram</h2>
+<br>
 <b>Transmitter Section: RF Remote → Encoder → ASK Transmitter</b>
 <br>
 
